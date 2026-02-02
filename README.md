@@ -14,9 +14,9 @@
 
 ## 🚀 About
 I build mobile products that stay: 
-- 🔁 **Built to change**: refactor-friendly structure and clean boundaries  
+- 🛠️ **Built to change**: refactor-friendly structure and clean boundaries  
 - 📈 **From MVP to mature product**: evolve fast early, stay stable as complexity grows
-- 🧠 **Sharp tech stack**: Compose + CMP/KMP, with performance as a first-class feature
+- 📡 **Sharp tech stack**: Compose + CMP/KMP, with performance as a first-class feature
 
 
 ## 🧭 Professional directions
