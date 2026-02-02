@@ -1,4 +1,4 @@
-<h1 align="center">Hi {username} 👋</h1>
+<h2 align="center">Hi {username} 👋</h1>
 
 <p align="center">
   Android Engineer · Jetpack Compose · CMP/KMP · Performance & Architecture · 🤖 AI-assisted dev
@@ -10,14 +10,17 @@
   <a href="https://www.linkedin.com/in/pskom">💼 LinkedIn</a> 
 </p>
 
-
 ---
 
 ## 🚀 About
-I build mobile products that stay **easy to change**: refactor-friendly architecture, smooth evolution from **startup speed** to **enterprise reliability**, and a bias toward **sharp, modern tech** (Compose + CMP/KMP).
+I build mobile products that stay: 
+- 🔁 **Built to change**: refactor-friendly structure and clean boundaries  
+- 📈 **From MVP to mature product**: evolve fast early, stay stable as complexity grows
+- 🧠 **Sharp tech stack**: Compose + CMP/KMP, with performance as a first-class feature
+
 
 ## 🧭 Professional directions
-- 🎨 Compose-first UI 
+- 🎨 Beautiful UI 
 - 🤖 AI-assisted
 - 🔁 Changeability
 - ⚡ Performance
